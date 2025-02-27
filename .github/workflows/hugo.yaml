@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/kotisivut/"
+            --baseURL "https://github.com/psycotimi/kotisivut/tree/main/kotisivut/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
