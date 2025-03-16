@@ -1,5 +1,5 @@
 baseURL = 'https://timisalminen.fi/'
 languageCode = 'fi-fi'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = 'Gallery Deluxe'
 contentDir = "content"
