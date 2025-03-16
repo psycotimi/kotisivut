@@ -1,5 +1,0 @@
-baseURL = 'https://timisalminen.fi/'
-languageCode = 'fi-fi'
-title = 'My New Hugo Site'
-theme = 'Gallery Deluxe'
-contentDir = "content"
